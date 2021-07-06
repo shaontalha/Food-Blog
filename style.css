@@ -2,6 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
     height: 100%;
+    width: 100%;
     
     
 }
@@ -72,10 +73,31 @@ h2{
     border-radius: 10px;
 }
 .recipes-description img{
-    
-    
-    
     width: 95%;
     border-radius: 10px;
-    
 }
+.special-part{
+    box-shadow: 5px 5px 5px 5px gainsboro ;
+    width: 85%;
+    margin-left: 5%;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    padding-right: 0;
+    padding-left: 10px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.followers{
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 10%;
+    padding-top: 10px;
+    padding-left: 10px;
+
+}
+.bolder{
+    font-weight: bolder;
+}
+
+
